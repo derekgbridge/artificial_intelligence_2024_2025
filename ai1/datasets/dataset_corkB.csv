@@ -1,0 +1,712 @@
+flarea,type,bdrms,bthrms,floors,devment,ber,location,price
+111.9,terraced,3,3,2,SecondHand,C1,Douglas,305
+,detached,3,3,2,SecondHand,,Glanmire,310
+,detached,4,3,2,SecondHand,,Glanmire,275
+95,detached,3,3,2,SecondHand,B3,Silversprings,255
+120.8,apartment,3,3,2,SecondHand,B3,Douglas,275
+130,detached,4,2,2,SecondHand,G,St. Lukes,440
+221,detached,4,2,2,SecondHand,E2,Blarney,695
+71,apartment,2,2,1,SecondHand,C3,Rochestown,295
+135,detached,4,3,2,SecondHand,C3,Rochestown,385
+138,detached,4,2,2,SecondHand,E2,Douglas,
+75,apartment,2,2,1,SecondHand,B3,Cork City,280
+180.7,detached,4,2,2,SecondHand,,Model Farm Road,600
+557.5,detached,5,5,2,SecondHand,D1,Montenotte,1350
+62,apartment,2,2,1,SecondHand,C3,Cork City,175
+194.89,detached,4,4,2,SecondHand,B3,Douglas,500
+111.5,detached,4,2,2,SecondHand,,Mayfield,390
+,terraced,3,1,2,SecondHand,G,Blackpool,185
+,detached,5,3,2,SecondHand,,Model Farm Road,495
+272.1,detached,4,4,2,SecondHand,,Rochestown,
+750,terraced,3,1,2,SecondHand,C2,Ballyphehane,260
+75,apartment,2,1,1,New,A2,Blackrock,295
+128,apartment,3,3,2,New,A2,Blackrock,385
+,semi-detached,3,1,2,SecondHand,G,Turners Cross,250
+104.55,semi-detached,4,3,2,SecondHand,C3,Blackrock,339
+,terraced,2,1,2,SecondHand,C1,Cork City,210
+79,apartment,3,1,1,SecondHand,C2,Wilton,259
+145,semi-detached,4,2,2,SecondHand,D1,Glasheen,375
+101.3,apartment,3,2,2,SecondHand,B3,Passage West,195
+67,apartment,3,2,1,SecondHand,C2,Passage West,170
+101,detached,3,1,2,SecondHand,G,Ballyphehane,320
+94.7,semi-detached,3,2,2,SecondHand,B3,Douglas,299
+,semi-detached,4,2,2,SecondHand,D1,Bishopstown,449
+81.8,terraced,,1,2,SecondHand,D2,Wilton,299
+107.03,semi-detached,4,3,2,SecondHand,D1,Rochestown,379
+110,terraced,4,2,2,SecondHand,C2,Blackrock,335
+96.33,semi-detached,3,3,2,SecondHand,C1,Douglas,269
+88.12,semi-detached,3,2,2,SecondHand,C3,Douglas,279
+120.8,terraced,3,1,2,SecondHand,,Ballinlough,270
+297.3,semi-detached,5,4,2,SecondHand,C2,Western Road,
+278.7,terraced,6,3,2,SecondHand,,Douglas,575
+438,detached,3,5,2,SecondHand,B3,Model Farm Road,1225
+,semi-detached,4,2,2,SecondHand,E1,Bishopstown,449
+111,semi-detached,4,1,2,SecondHand,G,Douglas,425
+255,detached,7,4,2,SecondHand,C2,Glanmire,450
+130.1,detached,3,3,2,SecondHand,C1,Douglas,345
+,semi-detached,3,2,2,SecondHand,,Glanmire,245
+72.2,terraced,2,1,2,SecondHand,C3,Rochestown,250
+399.5,detached,5,5,2,SecondHand,C1,Douglas,1495
+218,detached,4,4,2,New,A3,Douglas,745
+230,detached,5,3,2,New,A3,Douglas,775
+139.7,semi-detached,4,1,2,SecondHand,,Bishopstown,390
+,terraced,5,2,2,SecondHand,,Douglas,325
+225,detached,4,3,2,SecondHand,,Kilcully,400
+139.6,detached,4,1,2,SecondHand,D1,Glanmire,375
+62,terraced,3,1,2,SecondHand,,Turners Cross,200
+,semi-detached,3,1,2,SecondHand,D1,Ballyvolane,240
+,apartment,2,1,1,SecondHand,,Cork City,260
+135.26,semi-detached,4,3,2,SecondHand,C3,Douglas,290
+74.3,apartment,2,1,1,SecondHand,B3,Blackrock,200
+,terraced,4,4,2,SecondHand,G,Glanmire,200
+145,detached,5,3,2,SecondHand,D1,Rochestown,415
+93.8,semi-detached,3,2,2,SecondHand,D2,Douglas,265
+82,terraced,2,1,2,SecondHand,E2,Ballyphehane,170
+145.6,detached,4,4,3,SecondHand,C3,Rochestown,465
+81,apartment,3,3,1,SecondHand,C3,Bishopstown,180
+191.6,detached,4,3,2,SecondHand,C2,Blarney,565
+125,semi-detached,3,2,2,SecondHand,,Blackrock,350
+120.03,apartment,3,3,1,SecondHand,B2,Wilton,265
+91,terraced,3,1,2,SecondHand,F,Cork City,220
+165,detached,4,3,2,New,A2,Ovens,465
+162,detached,4,3,2,New,A2,Ovens,470
+72,semi-detached,3,1,2,SecondHand,F,Ballyphehane,220
+244,detached,5,4,2,SecondHand,B3,Model Farm Road,
+63,terraced,3,1,2,SecondHand,,Sunday's Well,175
+117.54,detached,4,3,2,SecondHand,B3,Tivoli,235
+118.27,semi-detached,4,4,2,SecondHand,D1,Wilton,365
+78.85,terraced,2,3,2,SecondHand,D1,Cork City,235
+110.93,semi-detached,4,2,2,SecondHand,C2,Glanmire,265
+,terraced,6,2,3,SecondHand,F,Cork City,395
+,terraced,2,3,2,SecondHand,,Blarney,270
+80,terraced,4,1,2,SecondHand,,Cork City,125
+110,terraced,4,3,2,SecondHand,E2,Cork City,280
+62,apartment,2,1,1,SecondHand,F,Cork City,180
+114,semi-detached,3,2,2,SecondHand,E2,Cork City,250
+111.64,detached,2,1,2,SecondHand,E2,Turners Cross,295
+124.22,detached,4,3,2,SecondHand,C2,Lehenaghmore,365
+75,apartment,2,2,1,SecondHand,C1,Tivoli,190
+117,detached,4,2,2,SecondHand,C3,Ovens,347
+95,terraced,3,1,2,SecondHand,F,Turners Cross,225
+154,detached,4,3,2,SecondHand,C3,Rochestown,550
+,semi-detached,3,1,2,SecondHand,,Farranree,165
+122.2,semi-detached,4,3,2,SecondHand,C1,Glanmire,290
+60,apartment,1,1,1,SecondHand,,Wilton,165
+94,apartment,4,4,1,SecondHand,C2,Model Farm Road,170
+63.71,terraced,2,2,2,SecondHand,C1,Cork City,220
+94,semi-detached,,3,2,SecondHand,,Frankfield,279
+63.5,apartment,3,2,1,SecondHand,E2,Model Farm Road,180
+73.2,semi-detached,3,1,2,SecondHand,D2,Douglas,240
+73,apartment,2,2,1,SecondHand,B3,Cork City,230
+109,semi-detached,3,3,2,SecondHand,D1,Frankfield,310
+121.24,detached,4,1,2,SecondHand,F,Blarney,300
+88.3,terraced,3,2,2,SecondHand,C1,Ovens,245
+170,detached,3,3,2,SecondHand,,Sunday's Well,565
+,terraced,3,1,2,SecondHand,,St. Lukes,230
+66.9,terraced,3,1,2,SecondHand,,Dillons Cross,240
+90.56,detached,3,3,2,SecondHand,B1,Lehenaghmore,279
+,semi-detached,3,3,2,SecondHand,,Blarney,220
+,terraced,4,2,2,SecondHand,,Cork City,150
+130,detached,4,3,2,SecondHand,C3,Fairhill,295
+103,detached,3,3,2,SecondHand,C2,Rochestown,289
+115,terraced,4,2,2,SecondHand,C1,St. Lukes,295
+,semi-detached,2,1,2,SecondHand,,Inniscarra,275
+237,detached,5,3,2,SecondHand,D1,Tivoli,550
+87.86,semi-detached,3,1,2,SecondHand,E1,Donnybrook,235
+57.6,terraced,2,1,2,SecondHand,,Cork City,185
+,semi-detached,4,3,2,SecondHand,C2,Togher,285
+252.5,semi-detached,5,2,3,SecondHand,F,St. Lukes,485
+134,semi-detached,4,1,2,SecondHand,E1,Douglas,435
+78.3,terraced,3,1,2,SecondHand,D2,Model Farm Road,245
+92.9,terraced,4,5,2,SecondHand,,Montenotte,320
+74,apartment,2,1,1,SecondHand,C2,Cork City,200
+97,apartment,3,2,1,SecondHand,C1,Douglas,270
+73.62,detached,3,1,2,SecondHand,D2,Glanmire,240
+122.6,terraced,3,2,2,SecondHand,C3,Ballinlough,295
+90.21,semi-detached,3,3,2,SecondHand,C3,Frankfield,289
+80,semi-detached,3,1,2,SecondHand,F,Turners Cross,225
+74.6,apartment,2,2,1,SecondHand,B2,Blackrock,220
+,terraced,3,2,2,SecondHand,C1,Rochestown,220
+98,semi-detached,3,2,2,SecondHand,E2,Ballyvolane,240
+62,apartment,2,1,1,SecondHand,C2,Cork City,170
+106,semi-detached,3,1,2,SecondHand,F,Ballinlough,275
+123.46,detached,4,2,2,SecondHand,E1,Rochestown,450
+,semi-detached,4,2,2,SecondHand,C2,Lehenaghmore,325
+,terraced,3,1,2,SecondHand,,Gurranabraher,155
+124,detached,4,2,2,SecondHand,E1,Wilton,485
+168,detached,4,3,2,SecondHand,C3,Montenotte,475
+128,detached,3,2,1,SecondHand,E2,Model Farm Road,395
+99.22,terraced,3,1,2,SecondHand,D2,Mayfield,225
+118,terraced,3,3,2,SecondHand,B3,Glanmire,230
+42,apartment,1,1,1,SecondHand,C1,Cork City,175
+,terraced,3,1,2,SecondHand,,Blackrock,160
+58,apartment,2,1,1,SecondHand,,Cork City,165
+,detached,4,1,2,SecondHand,G,Ballyvolane,250
+90.17,terraced,3,1,2,SecondHand,D1,Cork City,235
+49.8,apartment,1,1,1,SecondHand,B2,Cork City,190
+118,terraced,3,2,2,SecondHand,E1,Glanmire,139
+120,detached,4,3,2,SecondHand,C2,Ballyvolane,365
+85,apartment,2,2,1,SecondHand,C2,Rochestown,250
+144,detached,5,2,2,SecondHand,E1,Blackrock,675
+84.1,detached,3,1,1,SecondHand,D1,Blarney,199
+,terraced,15,15,3,SecondHand,F,Cork City,750
+67.33,apartment,2,2,1,SecondHand,B3,Blackrock,240
+121.14,detached,4,4,2,SecondHand,C2,Douglas,320
+281,detached,5,2,2,SecondHand,C2,Dublin Pike,480
+140.5,semi-detached,4,3,2,SecondHand,C2,Togher,340
+97,semi-detached,3,2,2,SecondHand,C3,Douglas,270
+75.8,apartment,2,2,1,SecondHand,,Blackrock,259
+76,terraced,4,1,2,SecondHand,F,Cork City,235
+,terraced,,1,2,SecondHand,,Cork City,195
+,apartment,2,2,1,SecondHand,,Cork City,350
+230.6,detached,3,3,1,SecondHand,E2,Blackrock,850
+67,terraced,2,1,2,SecondHand,G,Cork City,150
+106,semi-detached,3,1,2,SecondHand,C2,Wilton,230
+95,detached,3,1,2,SecondHand,F,Glasheen,225
+124,semi-detached,3,3,2,SecondHand,,Killeens,285
+90,detached,3,1,1,SecondHand,C2,Turners Cross,325
+81,terraced,3,1,2,SecondHand,E2,Douglas,239
+105.38,semi-detached,3,1,2,SecondHand,E1,The Lough,275
+,terraced,3,2,2,SecondHand,C3,Wilton,230
+,terraced,3,2,2,SecondHand,B3,Ballyvolane,
+89.5,terraced,3,1,2,SecondHand,E1,Cork City,360
+,semi-detached,4,3,2,SecondHand,D1,Glanmire,290
+71.63,apartment,3,3,1,SecondHand,D1,Model Farm Road,175
+52.38,apartment,2,1,1,SecondHand,D2,Douglas,180
+78.66,apartment,2,2,1,SecondHand,B2,Wilton,200
+67.32,apartment,2,2,1,SecondHand,D1,Cork City,185
+116,semi-detached,3,1,2,SecondHand,,Douglas,300
+70,apartment,2,1,1,,C3,Cork City,250
+94.4,terraced,3,3,2,SecondHand,C3,Wilton,245
+185.8,detached,4,1,2,SecondHand,,Cork City,250
+,semi-detached,3,2,2,SecondHand,,Ballinlough,345
+134,terraced,4,3,2,SecondHand,,Cork City,230
+70,terraced,4,1,2,SecondHand,E2,Cork City,240
+8.1,apartment,2,1,1,SecondHand,E1,Blackrock,195
+154,detached,4,2,2,SecondHand,D1,Waterfall,410
+,terraced,3,1,2,SecondHand,,Blackpool,150
+85.57,detached,2,1,2,SecondHand,G,Bishopstown,285
+102.2,detached,3,1,1,SecondHand,,Montenotte,250
+218.4,detached,4,1,2,SecondHand,E1,Blackrock,735
+110,semi-detached,4,1,2,SecondHand,G,Ballintemple,395
+62,apartment,2,1,1,SecondHand,D1,Douglas,195
+86,terraced,3,3,2,SecondHand,,Douglas,250
+80,apartment,2,2,1,SecondHand,B3,Cork City,280
+71.54,semi-detached,2,2,2,SecondHand,C2,Glanmire,245
+111.6,detached,4,1,2,SecondHand,E2,Blackrock,265
+52.5,apartment,1,1,1,SecondHand,C1,Passage West,135
+93,semi-detached,3,1,2,SecondHand,D2,Glasheen,320
+92,semi-detached,3,1,2,SecondHand,,Ballyvolane,260
+115,terraced,3,2,2,SecondHand,E1,Douglas,250
+96,semi-detached,3,2,2,SecondHand,,Douglas,335
+70.6,terraced,3,2,2,SecondHand,F,Cork City,230
+70,terraced,2,1,2,SecondHand,F,St. Lukes,185
+121.5,semi-detached,4,3,2,SecondHand,A3,Lehenaghmore,320
+82,terraced,3,1,2,SecondHand,G,Farranree,195
+81,terraced,3,1,2,SecondHand,G,Mayfield,175
+92.9,terraced,3,1,2,SecondHand,C3,Blarney,175
+167.24,detached,4,3,2,SecondHand,,Carrigrohane,595
+123.21,semi-detached,4,2,2,SecondHand,E1,Bishopstown,395
+275,detached,5,5,2,SecondHand,B2,Tivoli,790
+65,apartment,1,1,1,SecondHand,,Cork City,150
+81.64,semi-detached,3,1,2,SecondHand,C3,Douglas,259
+203.2,detached,5,3,2,SecondHand,C1,Ballinlough,725
+85.12,apartment,2,2,2,SecondHand,B3,Cork City,165
+,apartment,2,1,1,SecondHand,,Cork City,210
+,terraced,3,2,2,SecondHand,C2,Wilton,245
+102.19,semi-detached,3,1,2,SecondHand,C2,Donnybrook,279
+64,apartment,2,1,1,SecondHand,,Wilton,198
+,terraced,3,2,2,SecondHand,,Cork City,190
+,detached,4,2,2,SecondHand,E1,Bishopstown,325
+112,detached,4,2,2,SecondHand,,Carrigrohane,320
+,detached,2,1,2,SecondHand,,Glanmire,195
+114.4,terraced,4,2,2,SecondHand,B3,Banduff,295
+90,terraced,3,2,2,SecondHand,C1,Shanakiel,215
+69.4,terraced,3,1,2,SecondHand,E2,Cork City,235
+,detached,2,1,2,SecondHand,,Model Farm Road,170
+99.3,terraced,3,1,2,SecondHand,C2,Rochestown,269
+86.9,apartment,2,2,1,SecondHand,C1,Douglas,255
+106.8,semi-detached,3,3,2,SecondHand,,Blarney,318
+199.5,detached,5,4,2,SecondHand,B3,Blackrock,680
+,detached,4,4,2,SecondHand,,Blarney,395
+340,detached,5,5,2,SecondHand,,Waterfall,775
+70,semi-detached,3,1,2,SecondHand,E1,Blackpool,2000
+71,apartment,2,2,1,SecondHand,B3,Rochestown,245
+76,apartment,2,2,1,SecondHand,B1,Blackrock,259
+120.8,semi-detached,3,3,2,SecondHand,C2,Douglas,290
+,terraced,2,2,2,SecondHand,,Sunday's Well,210
+70,terraced,3,1,2,SecondHand,,Cork City,100
+169.8,detached,4,3,2,SecondHand,C1,Ballinlough,585
+,semi-detached,3,2,2,SecondHand,C2,Douglas,285
+,detached,3,1,1,SecondHand,D2,Blarney,220
+65,semi-detached,3,1,2,SecondHand,,Farranree,180
+65.3,apartment,1,1,1,SecondHand,B2,Cork City,310
+102.07,semi-detached,3,1,2,SecondHand,E1,Douglas,385
+55.54,terraced,2,2,2,SecondHand,C2,Blackpool,170
+45.45,apartment,1,1,1,SecondHand,C3,Cork City,135
+195.3,detached,5,4,2,SecondHand,C1,Glanmire,375
+122,semi-detached,4,1,2,SecondHand,G,Blackrock,440
+,detached,3,1,1,SecondHand,,Glasheen,
+100.48,semi-detached,3,2,2,SecondHand,E2,Ballinlough,385
+100,terraced,4,1,2,SecondHand,,Wilton,275
+106,apartment,2,1,1,SecondHand,C2,Passage West,130
+164.5,detached,5,3,3,SecondHand,B3,Blarney,320
+80.08,terraced,2,1,2,SecondHand,E2,Douglas,215
+127.5,semi-detached,4,3,2,SecondHand,C2,Rochestown,385
+121,semi-detached,3,2,2,SecondHand,,Ballyvolane,275
+94.7,detached,3,1,2,SecondHand,G,Mayfield,190
+87.4,terraced,3,1,2,SecondHand,C2,Douglas,299
+72.3,terraced,2,1,2,SecondHand,D2,Douglas,195
+60,terraced,2,1,2,SecondHand,,Mayfield,180
+96.9,semi-detached,3,2,2,SecondHand,F,Ballintemple,430
+63,apartment,2,1,1,SecondHand,B3,Cork City,175
+69.6,detached,2,2,2,SecondHand,C1,Glanmire,195
+122,apartment,2,2,1,,B3,Blackrock,290
+122.6,semi-detached,4,2,2,SecondHand,C3,Douglas,285
+,semi-detached,3,1,2,SecondHand,E2,Cork City,190
+102.6,semi-detached,3,2,2,SecondHand,D1,Douglas,370
+151.7,detached,4,4,2,SecondHand,A3,Togher,425
+92.9,semi-detached,3,1,2,SecondHand,C3,Blarney,245
+10,semi-detached,3,1,2,SecondHand,C3,Blarney,255
+101,semi-detached,3,1,2,SecondHand,G,Douglas,285
+64.61,apartment,2,1,1,SecondHand,C3,Glanmire,175
+112.91,terraced,3,3,2,SecondHand,C1,Douglas,310
+111.5,semi-detached,4,1,2,SecondHand,,Douglas,440
+224,detached,4,2,2,SecondHand,E1,Rochestown,595
+117.6,detached,3,1,2,SecondHand,F,Sunday's Well,275
+,semi-detached,3,1,2,SecondHand,,Blarney,240
+134.78,detached,4,1,1,SecondHand,,Curraheen,385
+55.7,detached,2,1,2,SecondHand,E2,Inniscarra,215
+110,terraced,3,1,2,SecondHand,C3,Blarney,260
+154,semi-detached,4,2,2,SecondHand,B2,Blarney,275
+150,apartment,5,3,1,SecondHand,G,Cork City,365
+68,detached,2,1,2,SecondHand,D1,Blackpool,195
+120.8,semi-detached,3,1,2,SecondHand,E2,Cork City,335
+98.9,terraced,3,2,2,SecondHand,E1,Ballinlough,360
+183,detached,5,3,1,SecondHand,D1,Passage West,495
+111.85,semi-detached,4,3,2,SecondHand,C3,Glanmire,290
+121.86,terraced,4,3,2,SecondHand,C2,Glanmire,249
+,semi-detached,3,2,2,SecondHand,,Model Farm Road,379
+175.43,detached,4,2,2,SecondHand,D1,Cork City,560
+,apartment,1,2,1,SecondHand,C1,Douglas,185
+,apartment,1,2,1,SecondHand,C1,Douglas,190
+156.2,terraced,4,3,3,SecondHand,D1,Blackrock,390
+,apartment,2,2,1,SecondHand,C3,Rochestown,220
+98.01,terraced,3,1,2,SecondHand,D2,Togher,275
+60.2,terraced,2,1,2,SecondHand,G,Cork City,150
+53.5,apartment,1,1,1,SecondHand,C1,Rochestown,190
+74,terraced,3,1,2,SecondHand,E1,Cork City,205
+,semi-detached,4,3,2,SecondHand,C1,Douglas,395
+125.74,detached,3,2,2,SecondHand,C3,Glanmire,398
+69.57,semi-detached,3,1,2,,G,Cork City,250
+155,semi-detached,4,1,2,SecondHand,D2,Bishopstown,410
+128,apartment,4,2,1,SecondHand,E1,Cork City,290
+105,semi-detached,3,2,2,SecondHand,E1,Ballyvolane,250
+126.2,detached,4,3,2,SecondHand,B3,Killeens,275
+122,semi-detached,4,3,2,SecondHand,C1,Ballyvolane,295
+332.6,terraced,,4,4,SecondHand,G,Western Road,595
+105,semi-detached,3,2,2,SecondHand,G,Ballinlough,340
+110,detached,4,3,2,SecondHand,E2,Douglas,280
+,detached,5,4,2,SecondHand,B2,Waterfall,595
+102.2,apartment,3,2,2,SecondHand,,Passage West,240
+87,apartment,2,2,1,SecondHand,B3,Cork City,200
+55.7,apartment,2,1,1,SecondHand,C1,Ballinlough,220
+,terraced,3,1,2,SecondHand,D2,Farranree,150
+212,detached,5,4,2,SecondHand,B3,Douglas,750
+80,detached,3,1,1,SecondHand,G,Turners Cross,295
+88.6,terraced,3,2,2,SecondHand,B3,Blackrock,330
+93,detached,3,1,2,SecondHand,E1,Bishopstown,325
+264,detached,5,4,2,SecondHand,D1,Douglas,725
+139.4,detached,3,1,2,SecondHand,,Bishopstown,
+105,semi-detached,3,1,2,SecondHand,,The Lough,285
+196.9,terraced,6,3,4,SecondHand,F,St. Lukes,575
+90.1,terraced,2,3,2,SecondHand,B3,Passage West,210
+66.79,terraced,3,1,2,SecondHand,E2,Cork City,225
+,detached,4,2,2,SecondHand,C3,Glanmire,265
+165.6,detached,4,4,2,SecondHand,B2,Douglas,630
+109.39,semi-detached,3,2,2,SecondHand,E1,Ballyvolane,280
+,semi-detached,3,1,2,SecondHand,D2,Bishopstown,295
+,apartment,2,2,1,SecondHand,,Tivoli,230
+140.3,detached,4,5,2,SecondHand,C1,Cork City,450
+,semi-detached,3,2,2,SecondHand,,Bishopstown,285
+,detached,4,1,1,SecondHand,,Ballinvoultig,340
+78,terraced,2,2,2,SecondHand,C2,Cork City,195
+122,apartment,3,2,1,SecondHand,D1,Cork City,295
+,terraced,2,1,2,SecondHand,E2,Cork City,190
+85,detached,2,2,2,SecondHand,D2,Passage West,260
+106,terraced,3,2,2,SecondHand,C1,Douglas,269
+88,terraced,5,2,2,SecondHand,D2,Cork City,325
+,apartment,3,1,1,SecondHand,,Victoria Cross,195
+75,terraced,3,1,2,SecondHand,G,St. Lukes,185
+98,semi-detached,3,3,2,SecondHand,C3,Lehenaghmore,285
+157,terraced,4,2,2,SecondHand,,Cork City,335
+106.42,detached,3,2,2,SecondHand,E2,Cork City,255
+,semi-detached,3,1,2,SecondHand,E1,Cork City,
+155,detached,4,3,2,SecondHand,,Frankfield,485
+70.5,detached,2,2,2,SecondHand,C1,Rochestown,255
+106,semi-detached,3,1,2,SecondHand,F,Montenotte,350
+134,semi-detached,3,2,2,SecondHand,C2,Douglas,430
+158.7,detached,4,2,2,,D1,Turners Cross,450
+90,terraced,3,1,2,SecondHand,,Cork City,215
+107,apartment,2,2,1,SecondHand,B2,Douglas,350
+107.25,semi-detached,3,2,2,SecondHand,G,Ballinlough,375
+126.8,detached,4,3,2,SecondHand,C2,Glanmire,365
+122,semi-detached,3,1,2,SecondHand,D1,Ballinlough,310
+,terraced,2,1,2,SecondHand,,Cork City,199
+173.9,detached,4,4,2,SecondHand,C2,Blarney,410
+,detached,4,3,2,SecondHand,C2,Blarney,360
+195.2,detached,4,4,2,SecondHand,B3,Douglas,595
+62,apartment,2,2,1,SecondHand,C3,Cork City,175
+98.8,terraced,3,3,2,SecondHand,D1,Rochestown,315
+166,terraced,4,2,3,SecondHand,D1,Cork City,495
+95,semi-detached,3,3,2,SecondHand,,Douglas,269
+,terraced,4,5,2,SecondHand,C3,Blackrock,450
+,apartment,3,3,1,SecondHand,B2,Wilton,275
+88.6,semi-detached,3,1,2,SecondHand,E2,Cork City,225
+,detached,6,3,2,SecondHand,C3,Blarney,
+93,detached,3,2,2,SecondHand,C3,Blarney,270
+113,terraced,3,2,2,SecondHand,E2,Ballyphehane,245
+,semi-detached,3,1,2,SecondHand,,Wilton,320
+106.8,semi-detached,3,2,2,SecondHand,E1,The Lough,310
+,terraced,3,1,2,SecondHand,,Wilton,225
+,detached,4,3,2,SecondHand,A3,Waterfall,685
+74.3,detached,3,1,1,SecondHand,F,Blackrock,220
+123.3,apartment,3,3,2,SecondHand,B2,Blackrock,275
+115,terraced,4,2,2,SecondHand,C1,Cork City,295
+141.2,detached,5,2,2,SecondHand,B3,Bishopstown,385
+,terraced,3,1,2,SecondHand,E1,Gurranabraher,160
+181,detached,3,2,2,SecondHand,B3,Inniscarra,499
+104,semi-detached,3,2,2,SecondHand,C1,Douglas,299
+97.24,semi-detached,3,2,2,SecondHand,C2,Lehenaghmore,285
+,apartment,2,1,1,SecondHand,D2,Douglas,195
+79,apartment,2,2,1,SecondHand,,Model Farm Road,250
+26,apartment,1,1,1,SecondHand,G,Glanmire,50
+81.45,terraced,3,2,2,SecondHand,F,Turners Cross,265
+68,terraced,3,1,2,SecondHand,C3,Glasheen,230
+139.4,semi-detached,3,3,2,SecondHand,C1,Blarney,255
+41.8,apartment,1,1,1,SecondHand,D2,Blackpool,125
+176.19,semi-detached,4,3,2,SecondHand,C1,Montenotte,390
+139.81,detached,5,3,2,SecondHand,D1,Model Farm Road,395
+52,apartment,1,1,1,SecondHand,D2,Cork City,160
+102,terraced,3,1,2,SecondHand,D1,Ballyphehane,249
+99.1,semi-detached,3,2,2,SecondHand,E2,The Lough,310
+,semi-detached,3,3,2,SecondHand,,Ballyvolane,280
+399.5,detached,5,4,2,SecondHand,E1,Douglas,1300
+271,detached,4,2,2,SecondHand,D1,Carrigrohane,675
+236.9,detached,4,4,2,SecondHand,C1,Model Farm Road,795
+100,terraced,3,3,2,SecondHand,C1,Glanmire,235
+145,detached,3,3,2,SecondHand,C2,Glanmire,320
+115,terraced,4,3,2,SecondHand,,Douglas,375
+101.8,semi-detached,4,2,2,SecondHand,D1,Douglas,375
+129,semi-detached,4,1,2,SecondHand,E2,Bishopstown,345
+95,terraced,3,2,2,SecondHand,,Cork City,265
+102.2,terraced,5,1,2,SecondHand,,Western Road,350
+165,semi-detached,4,2,2,SecondHand,,Douglas,345
+128.1,semi-detached,3,2,2,SecondHand,F,Blackrock,475
+181.2,detached,5,2,2,SecondHand,E2,Rochestown,580
+,apartment,2,1,1,SecondHand,D1,Douglas,245
+42,terraced,2,1,2,SecondHand,C3,Cork City,195
+127.7,detached,2,3,2,SecondHand,G,Tivoli,495
+85.6,semi-detached,3,1,2,SecondHand,E2,Montenotte,240
+483,detached,6,5,2,SecondHand,G,Carrigrohane,1450
+74.72,detached,2,2,2,SecondHand,C2,Mahon,250
+,semi-detached,4,1,2,SecondHand,E1,Bishopstown,395
+118,detached,3,2,1,SecondHand,G,Douglas,345
+,terraced,4,1,2,SecondHand,,Cork City,220
+,terraced,3,1,2,SecondHand,D1,Wilton,
+115.49,terraced,4,3,2,SecondHand,C3,Douglas,380
+146.1,terraced,3,2,2,SecondHand,D1,Sunday's Well,380
+110,terraced,4,2,2,SecondHand,F,Cork City,270
+74,apartment,2,2,1,SecondHand,B3,Cork City,270
+212.88,detached,6,2,2,SecondHand,D2,Glanmire,475
+113,terraced,3,1,2,SecondHand,G,Blackrock,365
+138.6,detached,4,3,2,SecondHand,D2,Douglas,459
+40,terraced,2,1,2,SecondHand,G,Cork City,95
+56.63,terraced,2,2,2,SecondHand,E2,Cork City,180
+63,terraced,3,1,2,SecondHand,F,Gurranabraher,165
+133,semi-detached,4,3,2,SecondHand,E2,Bishopstown,445
+50,terraced,2,1,2,SecondHand,G,St. Lukes,170
+79.88,apartment,2,1,1,SecondHand,,Blackrock,225
+99.82,terraced,3,2,2,SecondHand,C3,Cork City,225
+,apartment,5,3,1,SecondHand,,Cork City,270
+147.7,terraced,6,2,3,SecondHand,D2,Frankfield,345
+260.1,detached,4,4,2,SecondHand,,Kilcully,549
+65.5,apartment,2,2,1,SecondHand,C1,Wilton,200
+159.9,detached,4,3,2,SecondHand,A3,Little Island,330
+168.8,detached,5,3,2,SecondHand,D1,Glanmire,495
+,detached,4,3,2,SecondHand,C2,Rochestown,490
+74.47,detached,2,3,2,SecondHand,C3,Douglas,255
+118.22,semi-detached,4,2,2,SecondHand,D2,Rochestown,395
+74.47,detached,2,3,2,SecondHand,C1,Douglas,249
+78.97,terraced,3,1,2,SecondHand,D2,Wilton,230
+,detached,3,2,2,SecondHand,F,Cork City,150
+96,semi-detached,3,1,2,SecondHand,C2,Douglas,275
+120.8,detached,4,1,2,SecondHand,G,Glasheen,
+108,detached,3,2,2,SecondHand,A3,Silversprings,275
+147.25,terraced,4,4,3,SecondHand,E2,Douglas,195
+171.7,semi-detached,4,3,2,SecondHand,C1,Passage West,390
+110,semi-detached,4,2,2,SecondHand,D1,Ballinlough,365
+65,terraced,2,1,2,SecondHand,F,Cork City,195
+65.04,terraced,2,2,2,SecondHand,D1,Cork City,200
+61,terraced,2,1,2,SecondHand,,Blarney,160
+353,detached,5,3,2,SecondHand,C3,Model Farm Road,1100
+128,semi-detached,4,3,2,SecondHand,,Glanmire,280
+154.96,terraced,5,2,3,SecondHand,F,Cork City,295
+,semi-detached,3,2,2,SecondHand,C3,Douglas,280
+121.36,detached,3,2,2,SecondHand,C3,Cork City,295
+168,detached,5,3,2,SecondHand,C3,Rochestown,450
+376,terraced,5,4,3,SecondHand,F,Cork City,595
+111.5,apartment,3,3,2,SecondHand,C1,Douglas,279
+91,semi-detached,3,3,2,SecondHand,C3,Blarney,225
+,terraced,2,1,2,SecondHand,,Cork City,180
+215.6,detached,5,3,2,SecondHand,B3,Blackrock,635
+66,apartment,2,1,1,SecondHand,,Cork City,180
+75,terraced,3,1,2,SecondHand,,Ballyphehane,270
+72,apartment,3,1,1,SecondHand,C1,Blackrock,265
+74.3,semi-detached,3,1,2,SecondHand,,Turners Cross,320
+121.18,semi-detached,3,3,2,SecondHand,B3,Lehenaghmore,309
+65,terraced,2,3,2,SecondHand,,Blackpool,160
+120.7,terraced,5,3,2,SecondHand,C3,Montenotte,375
+82,detached,3,2,2,SecondHand,D1,Cork City,265
+104.76,terraced,3,2,2,SecondHand,C1,Ovens,260
+,apartment,3,3,1,SecondHand,E1,Model Farm Road,182
+82,detached,3,1,2,SecondHand,C2,Bishopstown,225
+88.18,semi-detached,3,2,2,SecondHand,D1,Douglas,275
+62.44,semi-detached,3,1,2,SecondHand,E2,Ballyphehane,220
+75.9,detached,2,1,2,SecondHand,F,St. Lukes,215
+72,terraced,2,1,2,SecondHand,D2,Cork City,199
+1161.1,semi-detached,3,2,2,SecondHand,F,Ballinlough,330
+,semi-detached,3,1,2,SecondHand,,Ballinlough,360
+214,detached,5,3,2,SecondHand,E1,Passage West,
+205,detached,5,4,2,SecondHand,D1,Blarney,490
+75.7,terraced,2,2,2,SecondHand,,Mahon,250
+138.2,detached,3,2,2,SecondHand,C2,Glanmire,295
+209.14,detached,5,3,2,SecondHand,C3,Glanmire,675
+160,semi-detached,4,2,2,SecondHand,,Bishopstown,455
+117,semi-detached,3,2,2,SecondHand,F,Blackrock,545
+54,terraced,2,2,2,SecondHand,,Glasheen,215
+82.27,terraced,2,2,2,SecondHand,B3,Blackrock,235
+42,terraced,2,1,2,SecondHand,,Cork City,155
+112.8,terraced,4,1,2,SecondHand,F,Blackrock,365
+101.1,semi-detached,3,1,2,SecondHand,C2,Blackrock,268
+232,detached,5,2,2,SecondHand,C3,Blackrock,750
+2000,semi-detached,6,2,2,SecondHand,,Bishopstown,450
+2000,detached,4,1,2,SecondHand,,Bishopstown,480
+139.4,detached,3,2,1,SecondHand,D2,Bishopstown,420
+108,semi-detached,3,2,2,SecondHand,,Douglas,250
+88.3,terraced,3,1,2,SecondHand,E1,Bishopstown,205
+122.4,detached,3,1,1,SecondHand,G,Kilcully,295
+259,detached,5,3,2,SecondHand,C2,Blackrock,850
+144.77,detached,5,3,2,SecondHand,C3,Model Farm Road,375
+79.36,terraced,3,1,2,SecondHand,D2,Wilton,225
+60,apartment,2,1,1,SecondHand,D1,Cork City,183
+257.7,detached,4,4,2,SecondHand,B3,Ovens,595
+127,semi-detached,4,1,2,SecondHand,D2,Bishopstown,365
+,terraced,3,1,2,SecondHand,,Bishopstown,279
+93.5,terraced,3,1,2,SecondHand,G,Glasheen,335
+,apartment,2,1,1,SecondHand,,Douglas,185
+85,terraced,3,1,2,SecondHand,D2,Togher,225
+65.72,terraced,2,1,2,SecondHand,D2,Turners Cross,235
+134.91,terraced,3,2,2,SecondHand,E1,Ballinlough,350
+118.65,semi-detached,3,2,2,SecondHand,F,Ballinlough,360
+110,terraced,4,1,2,SecondHand,D2,St. Lukes,230
+122,detached,4,3,2,SecondHand,C1,Little Island,335
+94,terraced,2,1,2,SecondHand,D1,Blackrock,299
+,detached,4,2,2,SecondHand,,Bishopstown,475
+,detached,5,3,2,SecondHand,,Model Farm Road,420
+115.12,detached,4,2,2,SecondHand,D2,Ovens,395
+131,detached,4,2,2,,E1,Cork City,549
+124,semi-detached,4,2,2,SecondHand,F,Ballinlough,395
+61.14,apartment,2,2,1,SecondHand,C2,Cork City,185
+167.63,detached,5,3,2,SecondHand,C3,Glanmire,475
+178.4,detached,5,4,2,SecondHand,C2,Rochestown,535
+201.2,detached,4,3,2,SecondHand,D1,Douglas,670
+94.59,terraced,4,1,2,SecondHand,E2,Cork City,180
+,apartment,2,1,1,SecondHand,D1,Cork City,185
+138,semi-detached,4,3,2,SecondHand,B3,Lehenaghmore,350
+,terraced,4,2,2,SecondHand,G,Cork City,215
+148.6,detached,4,3,2,SecondHand,C3,Ovens,380
+,detached,3,1,1,SecondHand,F,Model Farm Road,450
+63,apartment,2,2,1,SecondHand,,Cork City,185
+147.25,terraced,4,4,3,SecondHand,E2,Douglas,295
+,terraced,3,1,2,SecondHand,E2,Dillons Cross,245
+101.79,detached,4,2,2,SecondHand,D1,Rochestown,375
+74,apartment,2,1,1,SecondHand,C3,Wilton,180
+,detached,3,2,2,SecondHand,,Bishopstown,580
+110,detached,3,1,2,SecondHand,F,Model Farm Road,475
+93.51,semi-detached,3,2,2,SecondHand,C3,Bishopstown,305
+278.7,detached,6,4,2,SecondHand,B2,Waterfall,650
+,detached,5,3,2,SecondHand,C2,Bishopstown,
+156.7,terraced,5,3,2,SecondHand,G,Douglas,245
+131,detached,4,3,3,SecondHand,D2,Passage West,285
+132,detached,3,2,2,SecondHand,,Passage West,300
+267,terraced,6,2,4,SecondHand,,St. Lukes,500
+111.1,terraced,3,3,2,SecondHand,C1,Douglas,320
+,apartment,2,1,1,SecondHand,B2,Cork City,
+,semi-detached,3,2,2,SecondHand,C3,Glanmire,269
+153.3,detached,4,4,2,SecondHand,,Blarney,390
+134.7,semi-detached,4,4,2,SecondHand,,Blarney,355
+106.8,semi-detached,3,3,2,SecondHand,,Blarney,318
+106.8,semi-detached,3,3,2,SecondHand,,Blarney,330
+60,terraced,2,1,2,SecondHand,G,St. Lukes,220
+,detached,3,1,2,SecondHand,F,Little Island,250
+157,terraced,5,1,3,SecondHand,E2,Cork City,310
+631.7,detached,6,5,2,SecondHand,,Cork City,850
+173.9,detached,4,4,2,SecondHand,C2,Blarney,395
+111.5,terraced,3,2,2,SecondHand,,Bishopstown,300
+92.9,semi-detached,3,1,2,SecondHand,D2,Ballinlough,350
+98.42,semi-detached,3,1,2,SecondHand,G,Ballintemple,345
+118,detached,3,2,2,SecondHand,C2,Wilton,350
+965,terraced,3,2,2,SecondHand,D2,Blarney,229
+575,detached,5,6,3,SecondHand,C2,Tivoli,1250
+143.9,terraced,3,3,2,SecondHand,C1,Passage West,315
+130.1,semi-detached,3,2,2,SecondHand,E1,Ballintemple,375
+74,semi-detached,3,1,2,SecondHand,F,Turners Cross,225
+120,semi-detached,4,3,2,SecondHand,C1,Bishopstown,300
+318,detached,4,4,2,SecondHand,C1,Cork City,875
+104,terraced,4,3,2,SecondHand,C1,Killeens,270
+42.2,apartment,2,1,1,SecondHand,F,Cork City,220
+,terraced,3,2,2,SecondHand,C1,Wilton,239
+377.2,detached,6,5,2,SecondHand,C2,Ovens,660
+,apartment,2,1,1,SecondHand,E2,Blackrock,220
+88,detached,3,3,2,SecondHand,C1,Killeens,245
+79,apartment,2,2,1,SecondHand,B2,Cork City,400
+71,terraced,3,1,2,SecondHand,D2,Blackrock,255
+90,semi-detached,3,2,2,SecondHand,C3,Farranree,240
+90.66,semi-detached,3,1,2,SecondHand,D1,Montenotte,345
+111.37,semi-detached,3,2,2,SecondHand,D2,Wilton,235
+,apartment,2,2,1,SecondHand,,Blackpool,185
+95,semi-detached,4,2,2,SecondHand,,Cork City,160
+,detached,2,1,2,SecondHand,,Cork City,125
+,semi-detached,3,3,2,SecondHand,,Killeens,275
+89.8,semi-detached,3,1,2,SecondHand,F,Ballintemple,320
+163.45,semi-detached,3,2,2,SecondHand,F,Blackrock,380
+128.9,semi-detached,4,2,2,SecondHand,D2,Bishopstown,449
+78.84,semi-detached,3,1,2,SecondHand,D1,Rochestown,
+212.67,semi-detached,9,6,2,SecondHand,F,Douglas,465
+147,detached,4,3,2,SecondHand,D1,Rochestown,480
+132,semi-detached,3,2,2,SecondHand,D1,Douglas,245
+215.35,detached,5,3,2,SecondHand,B3,Ovens,548
+102.2,detached,3,1,2,SecondHand,,Montenotte,250
+140.9,detached,3,2,2,SecondHand,C3,Ovens,345
+161.1,detached,3,3,2,SecondHand,D2,Curraheen,345
+65,apartment,2,2,1,SecondHand,,Cork City,248
+122,semi-detached,4,2,2,SecondHand,E2,Blackrock,480
+79,apartment,2,2,1,SecondHand,B1,Cork City,285
+145,detached,3,3,2,SecondHand,D2,Model Farm Road,475
+74,apartment,2,2,1,SecondHand,B1,Cork City,225
+72.5,terraced,3,2,2,SecondHand,G,Turners Cross,200
+,terraced,3,2,2,SecondHand,,Wilton,225
+74.7,terraced,2,1,2,SecondHand,G,Blackrock,160
+,terraced,2,1,2,SecondHand,C1,St. Lukes,199
+236,detached,5,4,2,SecondHand,B2,Glanmire,395
+144.76,semi-detached,4,3,2,SecondHand,D1,Bishopstown,440
+91,semi-detached,4,2,2,SecondHand,B3,Cork City,239
+99,semi-detached,3,1,2,SecondHand,F,Ballinlough,330
+55.9,apartment,2,1,1,SecondHand,C1,Cork City,165
+54.5,apartment,2,1,1,SecondHand,C1,Cork City,165
+255.4,detached,5,3,2,SecondHand,A3,Model Farm Road,795
+,detached,3,1,1,SecondHand,,Blackrock,350
+111,semi-detached,3,1,2,SecondHand,C1,Rochestown,355
+,semi-detached,3,2,2,SecondHand,E2,Douglas,365
+117.6,terraced,5,1,2,SecondHand,E2,St. Lukes,285
+,semi-detached,4,2,2,SecondHand,C3,Glanmire,285
+148.6,semi-detached,5,1,2,SecondHand,D2,Bishopstown,349
+230.96,detached,6,5,2,SecondHand,C2,Rochestown,740
+,terraced,2,1,2,SecondHand,G,Model Farm Road,210
+,terraced,1,1,2,SecondHand,,The Lough,80
+,semi-detached,3,1,2,SecondHand,E1,Ballyvolane,220
+,terraced,3,1,2,SecondHand,F,Cork City,165
+191,detached,4,3,2,SecondHand,G,Ballinlough,535
+,semi-detached,3,2,2,SecondHand,,Cork City,235
+139.7,detached,4,2,1,SecondHand,D2,Waterfall,350
+124.02,detached,3,2,2,SecondHand,G,Cork City,750
+72,terraced,3,1,2,SecondHand,C1,Blackrock,230
+,apartment,2,1,1,SecondHand,,Blackrock,195
+163,detached,4,3,2,SecondHand,A3,Blarney,425
+,semi-detached,2,1,2,SecondHand,E2,Blarney,200
+116,detached,4,3,3,SecondHand,,Cork City,295
+83.6,terraced,4,1,2,SecondHand,,Cork City,245
+,detached,3,1,1,SecondHand,F,Waterfall,295
+,apartment,3,1,1,SecondHand,,Wilton,260
+75,terraced,2,1,2,SecondHand,,Cork City,169
+115,detached,5,2,1,SecondHand,D2,Curraheen,
+70,apartment,2,1,1,SecondHand,,Cork City,219
+,detached,3,2,1,SecondHand,,Kilcully,360
+298.9,detached,6,4,2,SecondHand,E1,Douglas,995
+118,semi-detached,3,3,2,SecondHand,D2,Rochestown,390
+62.12,apartment,2,2,1,SecondHand,E1,Cork City,175
+278.7,detached,4,1,2,SecondHand,C2,Douglas,700
+55,terraced,2,1,2,SecondHand,G,Gurranabraher,130
+171.5,detached,4,3,3,SecondHand,D2,Tivoli,595
+255.8,detached,6,5,3,SecondHand,C2,Rochestown,740
+61,apartment,2,1,1,SecondHand,D2,Cork City,165
+,apartment,2,1,1,SecondHand,,Cork City,185
+93.5,detached,2,1,2,SecondHand,G,Glanmire,270
+155,terraced,4,2,2,SecondHand,,Cork City,300
+87,semi-detached,3,1,2,SecondHand,G,Cork City,230
+111.4,semi-detached,3,3,2,SecondHand,C1,Rochestown,385
+125,semi-detached,5,3,2,SecondHand,D1,Glanmire,270
+,terraced,2,1,2,SecondHand,G,Cork City,140
+229.82,detached,5,4,2,SecondHand,B2,Waterfall,650
+105,terraced,2,2,2,SecondHand,G,Cork City,250
+,semi-detached,3,2,2,SecondHand,,Wilton,300
+113.8,semi-detached,3,1,2,SecondHand,C2,Ballyvolane,290
+106.68,terraced,4,2,2,SecondHand,B3,Cork City,345
+85,apartment,4,2,1,SecondHand,D2,Cork City,210
+78.31,terraced,3,1,2,SecondHand,D2,Glasheen,258
+,semi-detached,4,2,2,SecondHand,E2,Bishopstown,395
+,terraced,3,1,2,SecondHand,G,Blackpool,160
+205,detached,4,3,2,SecondHand,C3,Douglas,950
+48,apartment,2,1,1,SecondHand,D2,Wilton,185
+157.87,detached,4,2,2,SecondHand,G,Bishopstown,450
+696.8,detached,6,3,2,SecondHand,,Tivoli,850
+83.8,apartment,2,2,1,SecondHand,C1,Tivoli,165
+104,terraced,3,2,2,SecondHand,C1,Ballyphehane,255
+110,semi-detached,3,2,2,SecondHand,C1,Glanmire,250
+,apartment,2,2,1,SecondHand,B2,Blackrock,245
+162.76,terraced,4,3,3,SecondHand,C1,Blackrock,350
+,terraced,2,1,2,SecondHand,G,Cork City,180
+64,terraced,3,1,2,SecondHand,D2,Farranree,145
+92,semi-detached,3,1,2,SecondHand,E1,Douglas,395
+122.43,semi-detached,4,2,2,SecondHand,D1,Douglas,345
+,terraced,3,1,2,SecondHand,D2,Bishopstown,
+288,detached,5,4,2,SecondHand,B2,Blarney,420
+204.4,detached,4,2,2,SecondHand,,Blackpool,190
+60,apartment,2,1,1,SecondHand,,Victoria Cross,190
+83.6,terraced,2,1,2,SecondHand,,Cork City,165
+83.6,detached,3,2,2,SecondHand,C1,Blarney,200
+72,apartment,2,2,1,SecondHand,,Passage West,165
+139.4,semi-detached,3,2,2,SecondHand,C2,Blarney,265
+149,semi-detached,4,1,2,SecondHand,D1,Bishopstown,350
+92.9,semi-detached,3,3,2,SecondHand,,Lehenaghmore,
+51.1,apartment,1,1,1,SecondHand,,Rochestown,
+232.3,detached,6,3,3,SecondHand,C3,Tivoli,595
+96.6,semi-detached,4,1,2,SecondHand,D1,Glanmire,230
+145,semi-detached,4,2,2,SecondHand,G,Bishopstown,425
+75.7,apartment,2,1,2,SecondHand,C1,Douglas,240
+57.1,apartment,2,2,1,SecondHand,C3,Cork City,175
+136.43,semi-detached,3,2,2,SecondHand,E1,Bishopstown,430
+80,terraced,3,1,2,SecondHand,D2,Shanakiel,195
+217.9,detached,4,3,2,SecondHand,D1,Douglas,530
+278.7,terraced,6,3,2,SecondHand,D2,St. Lukes,
+92,terraced,2,1,2,SecondHand,,Ballyphehane,200
+139,semi-detached,4,3,2,SecondHand,,Ballintemple,405
+328,detached,4,4,2,SecondHand,D2,Douglas,
+,apartment,2,1,1,SecondHand,C2,Blackrock,255
+306.6,detached,4,1,2,SecondHand,C1,Tivoli,850
+112.6,semi-detached,3,1,2,SecondHand,F,Rochestown,320
+210.13,detached,4,4,2,SecondHand,D2,Rochestown,750
+,terraced,3,1,2,SecondHand,F,The Lough,220
+1500,detached,4,1,2,SecondHand,D1,Cork City,245
+139,detached,3,1,2,SecondHand,F,Sunday's Well,325
+105.01,detached,3,1,1,SecondHand,F,Douglas,320
+139.81,detached,3,2,2,SecondHand,F,Sunday's Well,325
+326.7,detached,5,6,2,SecondHand,C3,Douglas,1100
+98.4,semi-detached,3,1,2,SecondHand,F,The Lough,330
+478.6,detached,4,5,3,SecondHand,F,Rochestown,850
+,detached,3,1,1,SecondHand,G,Turners Cross,245
+82,detached,3,1,2,SecondHand,,Douglas,295
+65,terraced,2,1,2,SecondHand,C2,Ballintemple,235
+84.24,apartment,2,2,1,SecondHand,,Tivoli,220
+143.7,apartment,1,1,1,SecondHand,C1,Cork City,250
